@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290996395460",
+    "project_id": "noah-999c8",
+    "storage_bucket": "noah-999c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290996395460:android:535f0b73b4f726ab62d891",
+        "android_client_info": {
+          "package_name": "com.example.noah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJX8iT6gzB_ew4bzftqEnemtufbfTr07o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+Noah AI Assistant v1 is my final year project for the BSC-IT degree program. I've created an AI assistant with text-to-speech conversion, speech recognition, and image generation. We can generate responses as per the speech command given by the user and generate images with a proper prompt given by the user. I've created this project on the Android Studio platform. Java is used for backend logic, and Firebase is used for  simple email and password authentication in the registration/login module. The ChatGpt OpenAI API is used in this project for the image generation and speech recognition modules. 
+Hi, I’m Tejas Monde. I’m interested in Android app development and UI/UX design. I’m currently learning software development with Java. 
+Email: tejasmonde2004@gmail.com Phone: 8104407556 
+Connect with me. LinkedIn: www.linkedin.com/in/tejasmonde2406, Instagram: @tejasam24
